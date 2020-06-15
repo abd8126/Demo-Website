@@ -95,4 +95,27 @@ body{
     display: block;
     transform: translateY(8px);
 }
-
+#services .btn-primary{
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+/*---------------------------About Us-------------------------------*/
+#about-us{
+    background: #f8f9fa;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.about-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+}
+#about-us ul li {
+    margin: 10px 0;
+}
+#about-us ul{
+    margin-left: 20px;
+}
