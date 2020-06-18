@@ -157,6 +157,53 @@ body{
 .social-icons a:hover img{
     transform: translateY(-10px);
 }
+/************************footer Section------------------------------------*/
+#footer{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: white;
+}
+.footer-img{
+    width: 100%;
+}
+.footer-box{
+    padding: 5px;
+}
+.footer-box img{
+    width: 120px;
+    margin-bottom: 20px;
+}
+.footer-box .fa{
+    margin-right: 8px;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 2px;
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+.footer-box .form-control{
+    box-shadow: none !important;
+    border: none;
+    border-radius: 25px;
+    max-width: 250px;
+}
+.footer-box .btn-primary{
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    margin-top: 30px;
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+
+hr{
+    background-color: white;
+}
+.copyright{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
 
 
 
